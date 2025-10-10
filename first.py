@@ -1,0 +1,10 @@
+import math
+a=int(input("enter the first number :"))      
+b=int(input("enter the first number :"))  
+c=int(input("enter the first number :"))
+e=max(a,b,c)
+f=min(a,b,c)
+print("the max number of three",e)
+print("the min number of three",f)
+m=pow(a)
+print(m)

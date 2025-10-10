@@ -1,0 +1,5 @@
+names=input("enter the names")
+names = names.split(",")
+print("orgianal names:",names)      
+print("asending order:",sorted(names))
+print("decending order:",sorted(names,reverse=True))

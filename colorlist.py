@@ -1,0 +1,7 @@
+li1=set(["white","red","black"])
+li2=set(["red","green"])
+print("orginal set elements")
+print(li1)
+print(li2)
+print("\nDifference of li1 and li2:")
+print(li1.difference(li2))
